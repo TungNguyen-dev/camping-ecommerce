@@ -45,3 +45,5 @@ php artisan make:model Cart -a
 ```php
 php artisan make:model CartItem -a
 ```
+
+## Payment by cashier (stripe)
